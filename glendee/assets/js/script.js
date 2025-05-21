@@ -1,5 +1,3 @@
-import { Analytics } from "@vercel/analytics/next"
-
 // Mobile Navigation Toggle
 const mobileToggle = document.getElementById('mobileToggle');
 const navLinks = document.getElementById('navLinks');
