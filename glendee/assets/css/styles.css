@@ -5,7 +5,6 @@
     --dark: #263238;
     --light: #F5F5F5;
     --white: #FFFFFF;
-    --beige: #F5F5DC;
     --shadow: 0 4px 6px rgba(0,0,0,0.1);
     --transition: all 0.3s ease;
 }
@@ -129,10 +128,6 @@ section {
     padding: 5rem 0;
 }
 
-section:nth-child(even) {
-    background-color: var(--beige);
-}
-  
 .section-title {
     text-align: center;
     margin-bottom: 3rem;
